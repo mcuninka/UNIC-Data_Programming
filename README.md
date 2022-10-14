@@ -1,2 +1,2 @@
 # UNIC-Data_Programming
-Repository containing exercises from Data Programming course at UNIC
+Repository containing exercises and lecture notes from Data Programming course at UNIC
